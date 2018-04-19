@@ -1,10 +1,10 @@
 turrets.lua||3c391b64c99251260dce18728e5aedf2
-core.lua||245549b20b7a47e089f774c69eb72abd
+core.lua||73e01ef48a37c2a50d5942ca4be036a7
 spells/q2.lua||e76c17dda297458a27c86564c921d821
 spells/q3.lua||ee444fe9749715069fb2808a9654d806
 spells/q.lua||fa59fb5b4a1e9a9fd86acdc1fc5d3ad7
 menu.lua||43f52e70fb8fd4caa90ef7159277ad5f
-update.lua||ed17d83700d43d829bfe2edca256d3b1
+update.lua||16b3ee5066b3128b185c8219bfa0ae05
 main.lua||3870c9bfcaac1b53784f387d50f92b78
 spells/utils.lua||489219170d63037beec39e5b1eaf47a5
 spells/w.lua||2f279df6a70ff3173345996712a19beb
