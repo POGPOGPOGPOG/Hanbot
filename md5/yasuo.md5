@@ -1,8 +1,8 @@
 turrets.lua||3c391b64c99251260dce18728e5aedf2
-core.lua||9a489345a5ce2c64e117378723e47773
-spells/q2.lua||e562f8503f739ff925bc0c1012331f1d
+core.lua||4b0e056596681f7ea91351c912aa059d
+spells/q2.lua||59b4e61f92a29b3548f537f798d2b2c1
 header.lua||d199149a61c9d4dc9a61764781dc9d54
-spells/q.lua||542bdcca86f91299d5325b00a7b9bf04
+spells/q.lua||b6c32559f1291174d80d39b281cbed05
 spells/q3.lua||ee444fe9749715069fb2808a9654d806
 update.lua||4184e6952c69326ced3ac33d42b3a3a3
 main.lua||3870c9bfcaac1b53784f387d50f92b78
@@ -10,4 +10,4 @@ spells/utils.lua||489219170d63037beec39e5b1eaf47a5
 spells/w.lua||2f279df6a70ff3173345996712a19beb
 delayaction.lua||c2af8b9665fb8ba259fb1c220c377403
 spells/e.lua||1525b03fe6f7dac878c05ee0f0ac0a24
-menu.lua||43f52e70fb8fd4caa90ef7159277ad5f
+menu.lua||ed90e4f2dc03ef2becc475fa45901adf
