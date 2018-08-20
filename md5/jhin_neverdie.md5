@@ -1,12 +1,12 @@
-core.lua||ddb7b945a967e4137c5f50a0b3f412b4
-header.lua||1c43f1b7fffab17267ddaf81273d98c6
+core.lua||a58ab5a7ce6c8db3ac44a67d1190e7fc
+header.lua||295b43ba0c5839e45d946f3d86c386e8
 delayaction.lua||c2af8b9665fb8ba259fb1c220c377403
 spells/q.lua||04689a6895bd26913c7b21b89954f1ab
-spells/utils.lua||460845eaba2c49cc3e6cbcb2eccc4e4b
+spells/utils.lua||7c7b9007eec6f01ec81811baa185e4bc
 update.lua||c5ed3a7ee29570a0086fa17b10ac1f96
 main.lua||205575323b9fc620d26ea3fa19ffc271
-utility.lua||efdf95ff3325cef5b24a651e53c37ee7
+utility.lua||fd42bdf43a098625bd17ba1b7af1f206
 spells/w.lua||72ac07582798f7f721e8f5f23af48275
-spells/r.lua||5f8435ef5140a9cdc650df2c35056e34
+spells/r.lua||5d73d7ebe9e2202bd03b046a8fac325a
 spells/e.lua||2f648e4ce205c15a70e3d007d44f3be6
 menu.lua||19907a553e822d76f1fbbb3effce630f
