@@ -1,6 +1,6 @@
 return {
         id = 'abyasuo',
-        name = '[Hex]Yasuo',
+        name = '[Hex]Yasuo [Neverdie]',
         flag = {
 	      text = '[Hex]',
 	      color = {
@@ -9,6 +9,7 @@ return {
 	        background2 = 0xFF000000,
 	      },
 	    },
+	    riot = true,
         load = function()
           return player.charName == 'Yasuo'
         end,
